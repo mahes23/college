@@ -648,16 +648,16 @@ html{
         margin-top: 2%;
     }
     .csp{
-        margin-top: 120%;
+        margin-top: 170%;
         display: block;
     }
     .academics{
         background-image: url('images/acadamicback1.png');
         height: 100vh;
-        margin-top:240%;
+        margin-top:270%;
     }
     .footter{
-        margin-top: 250%;
+        margin-top: 350%;
     }
 }
     
